@@ -4,6 +4,8 @@
 
 ---
 
+**Link do notebook:** [O que são Agentes de IA e suas aplicações](https://notebooklm.google.com/notebook/2a65086a-7acc-452b-9334-1c7a0cbea8c0)
+
 ## 📌 Contexto e Objetivos
 
 ### Assunto Escolhido
